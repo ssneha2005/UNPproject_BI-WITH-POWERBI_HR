@@ -8,4 +8,4 @@ pdf-https://drive.google.com/file/d/1As3oF1Ycs3W_zmwp8xsO1iAO0sHUlvqr/view?usp=s
 
 ppt-https://docs.google.com/presentation/d/1Q3M834RJlJmY74RAmk8R9oLlLBtcE1f7/edit?usp=sharing&ouid=105350821547029819641&rtpof=true&sd=true
 
-pbix-
+pbix-https://drive.google.com/file/d/1gLD3XfWY1QvfhntRQFXOVvAAoS8B-Z1f/view?usp=sharing
